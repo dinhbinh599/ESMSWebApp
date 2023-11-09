@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# ESMS
+The web app of ESMS, Employee Skills Management System (ESMS for short) is a system that will help its users manage skills and speed up the process of finding suitable candidates for their projects.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Product background
+Human resources management is important and indispensable in the management of the activities of a commercial organization or enterprise. Human resources management helps managers be aware of the essential elements of the human factor in the operations of any organization or enterprise. Currently, many companies in Vietnam are managing the staff capacity according to each Curriculum Vitae, so the division of projects following the staff's capacity is usually arranged by HR. 
+Even so, it is hard for HR to know if the candidates have the skills and talents suitable for various kinds of projects and dispense them appropriately due to having to manually search for employees and the limit of information in Curriculum Vitae. Additionally, HR software only manages closed profiles, which doesn’t allow PMs to directly take part in the searching process for their own projects, thus slow down the process even further without ensuring an effective result.
+On the employee’s side, without an effective matching result, said employee might have to work on positions and projects that are not matched with their skill sets, which can prevent them from bringing out their full skill potential and passion into play, resulting in low-quality products and output in general.
 
 ## Available Scripts
 
