@@ -1,0 +1,12 @@
+.header{
+    margin-left: 10px;
+    padding-bottom: 0px !important;
+    margin-bottom: 0px;
+    /* height: 30px; */
+}
+.main-panel .header{
+    margin-bottom: 0px !important;
+}
+.confirm-table{
+    padding-top: 0px !important;
+}

@@ -1,0 +1,31 @@
+.ul {
+    list-style-type: none;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+.li a {
+    display: block;
+    color: #000;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+.li a.active {
+    background-color: #9c279c;
+    color: white;
+    cursor: pointer;
+}
+
+.li a:hover:not(.active) {
+    background-color: #DCDCDC;
+    color: black;
+    cursor: pointer;
+}
+
+.col-2{
+    margin-top: 10px;
+}
